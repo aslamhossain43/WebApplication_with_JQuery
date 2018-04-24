@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<person>
+    <employee>
+    <name>Aslam</name>  
+    <skill>Java</skill>
+    <company>RenuSoft</company>
+    </employee> 
+      <employee>
+    <name>Atif</name>  
+    <skill>Java</skill>
+    <company>RenuSoft</company>
+    </employee> 
+     <employee>
+    <name>Atif</name>  
+    <skill>Java</skill>
+    <company>RenuSoft</company>
+    </employee>   
+  
+        
+</person>
